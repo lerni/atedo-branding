@@ -1,0 +1,19 @@
+.cms-sitename .cms-sitename__link:before {
+	height: 22px;
+	width: 22px;
+	content: "" !important;
+	background: url("../images/cms-logo.png") no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+
+@media (min-width: 640px) {
+	.ss-loading-screen:before {
+		content: "" !important;
+		background: url("../images/atedo_logo_mit-claim.png") no-repeat scroll 50% 45% transparent;
+		background-size: 550px 220px;
+		width: 550px;
+		height: 220px;
+		display: block;
+	}
+}

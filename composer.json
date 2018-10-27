@@ -1,0 +1,28 @@
+{
+    "name": "lerni/atedo-branding",
+    "description": "Set the Application Name and Link, Change the CMS Logo and Loading Screen",
+    "type": "silverstripe-vendormodule",
+    "keywords": [
+        "SilverStripe",
+        "branding",
+        "atedo"
+    ],
+    "homepage": "http://github.com/kraftausdruck/atedo-branding",
+    "license": "BSD-3-Clause",
+    "authors": [{
+        "name": "Lukas Erni",
+        "homepage": "https://kraftausdruck.ch",
+        "email": "le@kraftausdruck.ch"
+    }],
+    "require": {
+        "silverstripe/framework": "^4",
+        "silverstripe/cms": "^4"
+    },
+    "extra": {
+        "installer-name": "atedo-branding",
+        "expose": [
+            "atedo-branding/style",
+            "atedo-branding/images"
+        ]
+    }
+}
