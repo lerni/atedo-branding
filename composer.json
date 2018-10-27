@@ -19,7 +19,6 @@
         "silverstripe/cms": "^4"
     },
     "extra": {
-        "installer-name": "atedo-branding",
         "expose": [
             "style",
             "images"
