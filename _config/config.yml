@@ -1,8 +1,5 @@
 ---
-Name: atedo
-After:
-  - 'framework/*'
-  - 'cms/*'
+Name: atedo-branding
 ---
 SilverStripe\Admin\LeftAndMain:
   application_name: 'atedo CMS'
