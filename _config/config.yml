@@ -5,4 +5,4 @@ SilverStripe\Admin\LeftAndMain:
   application_name: 'atedo CMS'
   application_link: 'https://www.atedo.ch'
   extra_requirements_css:
-    - 'lerni/atedo-branding: atedo-branding/style/atedoCMS.css'
+    - 'lerni/atedo-branding: style/atedoCMS.css'
