@@ -21,8 +21,8 @@
     "extra": {
         "installer-name": "atedo-branding",
         "expose": [
-            "atedo-branding/style",
-            "atedo-branding/images"
+            "style",
+            "images"
         ]
     }
 }
